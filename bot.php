@@ -27,6 +27,7 @@ if($arrJson['events'][0]['message']['text'] == "0"){
 แบบที่ 2 ทำ Stciker LINE แบบตัวการ์ตูน\n
 40 ตัว ราคา 7000 บาท\n
 —————————————————————————\n";
+  $arrPostData['messages'][1]['type'] = "text";
  $arrPostData['messages'][1]['text'] = "สวัสดีครับ Where is my sticker ยินดีให้บริการ ทำ Sticker LINE เป็น
 ของตัวเอง กรุณาพิมพ์หมายเลขที่ท่านต้องการทราบข้อมูลได้เลยครับ
 
