@@ -140,6 +140,8 @@ Facebook ค้นว่า Where is my sticker 
 หากมีข้อสงสัยอย่างอื่นนอกเหนือจากนี้ ท่านสามารถ แอดไลน์
 ที่ Line ID:> pinkspiderubu และสอบถามได้ทันที
 ---------------------------------------------------";
+  $arrPostData['messages'][1]['type'] = "text";
+ $arrPostData['messages'][1]['text'] = "พิมพ์ 0 เพื่อกลับไปยังชุดคำถามหน้าหลัก";
 }else if($arrJson['events'][0]['message']['text'] == "ok"){
   $arrPostData = array();
   $arrPostData['replyToken'] = $arrJson['events'][0]['replyToken'];
@@ -149,6 +151,8 @@ Facebook ค้นว่า Where is my sticker 
 แอด Friend ที่ Line ID >> pinkspiderubu
 'และสอบถามได้ทันที
 ---------------------------------------------------";
+  $arrPostData['messages'][1]['type'] = "text";
+ $arrPostData['messages'][1]['text'] = "พิมพ์ 0 เพื่อกลับไปยังชุดคำถามหน้าหลัก";
 }else{
   $arrPostData = array();
   $arrPostData['replyToken'] = $arrJson['events'][0]['replyToken'];
