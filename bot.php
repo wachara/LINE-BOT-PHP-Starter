@@ -153,11 +153,33 @@ Facebook ค้นว่า Where is my sticker 
 ---------------------------------------------------";
   $arrPostData['messages'][1]['type'] = "text";
  $arrPostData['messages'][1]['text'] = "พิมพ์ 0 เพื่อกลับไปยังชุดคำถามหน้าหลัก";
+}else if($arrJson['events'][0]['message']['text'] == "Ok"){
+  $arrPostData = array();
+  $arrPostData['replyToken'] = $arrJson['events'][0]['replyToken'];
+  $arrPostData['messages'][0]['type'] = "text";
+  $arrPostData['messages'][0]['text'] = "---------------------------------------------------
+สามารถส่งข้อมูล รูปถ่าย และคำได้ที่ LINE ด้านล่างได้ทันที
+แอด Friend ที่ Line ID >> pinkspiderubu
+'และสอบถามได้ทันที
+---------------------------------------------------";
+  $arrPostData['messages'][1]['type'] = "text";
+ $arrPostData['messages'][1]['text'] = "พิมพ์ 0 เพื่อกลับไปยังชุดคำถามหน้าหลัก";
+}else if($arrJson['events'][0]['message']['text'] == "OK"){
+  $arrPostData = array();
+  $arrPostData['replyToken'] = $arrJson['events'][0]['replyToken'];
+  $arrPostData['messages'][0]['type'] = "text";
+  $arrPostData['messages'][0]['text'] = "---------------------------------------------------
+สามารถส่งข้อมูล รูปถ่าย และคำได้ที่ LINE ด้านล่างได้ทันที
+แอด Friend ที่ Line ID >> pinkspiderubu
+'และสอบถามได้ทันที
+---------------------------------------------------";
+  $arrPostData['messages'][1]['type'] = "text";
+ $arrPostData['messages'][1]['text'] = "พิมพ์ 0 เพื่อกลับไปยังชุดคำถามหน้าหลัก";
 }else{
   $arrPostData = array();
   $arrPostData['replyToken'] = $arrJson['events'][0]['replyToken'];
   $arrPostData['messages'][0]['type'] = "text";
-  $arrPostData['messages'][0]['text'] = "ฉันไม่เข้าใจคำสั่ง";
+  $arrPostData['messages'][0]['text'] = "ฉันไม่เข้าใจที่คุณตอบกลับ กรุณาพิมพ์ 0 แล้วส่งมาเพื่อเข้าสู่่ชุดคำถามหลักอีกครั้ง";
 }
  
  
