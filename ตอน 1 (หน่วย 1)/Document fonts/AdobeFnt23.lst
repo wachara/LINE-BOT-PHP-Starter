@@ -1,0 +1,421 @@
+%!Adobe-FontList 1.23
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ChulabhornLikitDisplay-Medium
+FamilyName:Chulabhorn Likit Display
+StyleName:Medium
+FullName:Chulabhorn Likit Display Medium
+MenuName:Chulabhorn Likit Display Medium
+StyleBits:0
+WritingScript:Thai
+OutlineFileName:D:\ก้อง\1.ภาษาไทย\1 ส่งกระทรวง\หลักภาษาไทย ม.5\รอบกระทรวง 4\ตอนที่ 1\ตอน 1 (หน่วย 1)\Document fonts\ChulabhornLikitDisplay-Medium.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:63164
+FileModTime:1626390034
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Chulabhorn Likit Display Medium
+NameArray:0,Win,1,Chulabhorn Likit Display Medium
+NameArray:0,Win,16,Chulabhorn Likit Display
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:FCCandy
+FamilyName:FC Candy
+StyleName:Regular
+FullName:FC Candy
+MenuName:FC Candy
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\ก้อง\1.ภาษาไทย\1 ส่งกระทรวง\หลักภาษาไทย ม.5\รอบกระทรวง 4\ตอนที่ 1\ตอน 1 (หน่วย 1)\Document fonts\FC CANDY.OTF
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:57748
+FileModTime:1668575061
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,FC Candy
+NameArray:0,Mac,4,FC Candy
+NameArray:0,Win,1,FC Candy
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+FullName:Minion Pro
+MenuName:Minion Pro
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\ก้อง\1.ภาษาไทย\1 ส่งกระทรวง\หลักภาษาไทย ม.5\รอบกระทรวง 4\ตอนที่ 1\ตอน 1 (หน่วย 1)\Document fonts\MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:218640
+FileModTime:1626200076
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:PSLOmyimPro
+FamilyName:PSL Omyim Pro
+StyleName:Regular
+FullName:PSL Omyim Pro Regular
+MenuName:PSL Omyim Pro (อมยิ้ม)
+StyleBits:0
+WritingScript:Thai
+OutlineFileName:D:\ก้อง\1.ภาษาไทย\1 ส่งกระทรวง\หลักภาษาไทย ม.5\รอบกระทรวง 4\ตอนที่ 1\ตอน 1 (หน่วย 1)\Document fonts\PSL114pro.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:58148
+FileModTime:1338559268
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,PSL Omyim Pro Regular
+NameArray:0,Mac,4,PSL Omyim Pro Regular
+NameArray:0,Win,1,PSL Omyim Pro (อมยิ้ม)
+NameArray:0,Win,16,PSL Omyim Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:TEPCAksaramatee-Bold
+FamilyName:TEPC Aksaramatee
+StyleName:Bold
+FullName:TEPCAksaramatee-Bold
+MenuName:TEPC Aksaramatee
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:D:\ก้อง\1.ภาษาไทย\1 ส่งกระทรวง\หลักภาษาไทย ม.5\รอบกระทรวง 4\ตอนที่ 1\ตอน 1 (หน่วย 1)\Document fonts\TEPC Aksaramatee Bol.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:113176
+FileModTime:1211301730
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,TEPC Aksaramatee Bold
+NameArray:0,Mac,4,TEPC Aksaramatee Bold
+NameArray:0,Win,1,TEPC Aksaramatee
+NameArray:0,Win,16,TEPC Aksaramatee
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:TEPCAksaramatee
+FamilyName:TEPC Aksaramatee
+StyleName:Regular
+FullName:TEPCAksaramatee
+MenuName:TEPC Aksaramatee
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\ก้อง\1.ภาษาไทย\1 ส่งกระทรวง\หลักภาษาไทย ม.5\รอบกระทรวง 4\ตอนที่ 1\ตอน 1 (หน่วย 1)\Document fonts\TEPC Aksaramatee.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:119420
+FileModTime:1211301734
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,TEPC Aksaramatee
+NameArray:0,Mac,4,TEPC Aksaramatee
+NameArray:0,Win,1,TEPC Aksaramatee
+NameArray:0,Win,16,TEPC Aksaramatee
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:THNiramitIT?-Bold
+FamilyName:TH Niramit AS
+StyleName:Bold
+FullName:THNiramitIT๙-Bold
+MenuName:TH NiramitIT๙
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:D:\ก้อง\1.ภาษาไทย\1 ส่งกระทรวง\หลักภาษาไทย ม.5\รอบกระทรวง 4\ตอนที่ 1\ตอน 1 (หน่วย 1)\Document fonts\TH NiramitIT๙ Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:100840
+FileModTime:1287297388
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,TH Niramit AS Bold
+NameArray:0,Mac,4,TH Niramit AS Bold
+NameArray:21,Win,1,TH Niramit AS
+NameArray:0,Win,1,TH NiramitIT๙
+NameArray:0,Win,16,TH Niramit AS
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:UPC-Jasmine-Bold
+FamilyName:UPC-Jasmine
+StyleName:Bold
+FullName:UPC-Jasmine Bold
+MenuName:UPC-Jasmine
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:D:\ก้อง\1.ภาษาไทย\1 ส่งกระทรวง\หลักภาษาไทย ม.5\รอบกระทรวง 4\ตอนที่ 1\ตอน 1 (หน่วย 1)\Document fonts\UPC-Jasmineb.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:120068
+FileModTime:1227625908
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,UPC-Jasmine Bold
+NameArray:0,Mac,4,UPC-Jasmine Bold
+NameArray:0,Win,1,UPC-Jasmine
+NameArray:0,Win,16,UPC-Jasmine
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:UPCA-Bold
+FamilyName:UPCA
+StyleName:Bold
+FullName:UPCA Bold
+MenuName:UPCA
+StyleBits:2
+WritingScript:Thai
+OutlineFileName:D:\ก้อง\1.ภาษาไทย\1 ส่งกระทรวง\หลักภาษาไทย ม.5\รอบกระทรวง 4\ตอนที่ 1\ตอน 1 (หน่วย 1)\Document fonts\UPCABold.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:76684
+FileModTime:1083419354
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,UPCA Bold
+NameArray:0,Mac,4,UPCA Bold
+NameArray:0,Win,1,UPCA
+NameArray:0,Win,16,UPCA
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:UPCxA
+FamilyName:UPCxA
+StyleName:Regular
+FullName:UPCxA
+MenuName:UPCxA
+StyleBits:0
+WritingScript:Thai
+OutlineFileName:D:\ก้อง\1.ภาษาไทย\1 ส่งกระทรวง\หลักภาษาไทย ม.5\รอบกระทรวง 4\ตอนที่ 1\ตอน 1 (หน่วย 1)\Document fonts\UPCxALight.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:75604
+FileModTime:1087390886
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,UPCxA
+NameArray:0,Mac,4,UPCxA
+NameArray:0,Win,1,UPCxA
+NameArray:0,Win,16,UPCxA
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:UPCxB-Bold
+FamilyName:UPCxB
+StyleName:Bold
+FullName:UPCxB Bold
+MenuName:UPCxB
+StyleBits:2
+WritingScript:Thai
+OutlineFileName:D:\ก้อง\1.ภาษาไทย\1 ส่งกระทรวง\หลักภาษาไทย ม.5\รอบกระทรวง 4\ตอนที่ 1\ตอน 1 (หน่วย 1)\Document fonts\UPCxBBold.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:74716
+FileModTime:1087390956
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,UPCxB Bold
+NameArray:0,Mac,4,UPCxB Bold
+NameArray:0,Win,1,UPCxB
+NameArray:0,Win,16,UPCxB
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:UPCxB-BoldItalic
+FamilyName:UPCxB
+StyleName:Bold Italic
+FullName:UPCxB Bold Italic
+MenuName:UPCxB
+StyleBits:3
+WritingScript:Thai
+OutlineFileName:D:\ก้อง\1.ภาษาไทย\1 ส่งกระทรวง\หลักภาษาไทย ม.5\รอบกระทรวง 4\ตอนที่ 1\ตอน 1 (หน่วย 1)\Document fonts\UPCxBBoldItalic.TTF
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:66704
+FileModTime:1087416240
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,UPCxB Bold Italic
+NameArray:0,Mac,4,UPCxB Bold Italic
+NameArray:0,Win,1,UPCxB
+NameArray:0,Win,16,UPCxB
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:UPCxB-Italic
+FamilyName:UPCxB
+StyleName:Italic
+FullName:UPCxB Italic
+MenuName:UPCxB
+StyleBits:1
+WritingScript:Thai
+OutlineFileName:D:\ก้อง\1.ภาษาไทย\1 ส่งกระทรวง\หลักภาษาไทย ม.5\รอบกระทรวง 4\ตอนที่ 1\ตอน 1 (หน่วย 1)\Document fonts\UPCxBItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:67872
+FileModTime:1087373094
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,UPCxB Italic
+NameArray:0,Mac,4,UPCxB Italic
+NameArray:0,Win,1,UPCxB
+NameArray:0,Win,16,UPCxB
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:UPCxB
+FamilyName:UPCxB
+StyleName:Regular
+FullName:UPCxB
+MenuName:UPCxB
+StyleBits:0
+WritingScript:Thai
+OutlineFileName:D:\ก้อง\1.ภาษาไทย\1 ส่งกระทรวง\หลักภาษาไทย ม.5\รอบกระทรวง 4\ตอนที่ 1\ตอน 1 (หน่วย 1)\Document fonts\UPCxBLight.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:72072
+FileModTime:1087391146
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,UPCxB
+NameArray:0,Mac,4,UPCxB
+NameArray:0,Win,1,UPCxB
+NameArray:0,Win,16,UPCxB
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Wingdings-Regular
+FamilyName:Wingdings
+StyleName:Regular
+FullName:Wingdings
+MenuName:Wingdings
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\ก้อง\1.ภาษาไทย\1 ส่งกระทรวง\หลักภาษาไทย ม.5\รอบกระทรวง 4\ตอนที่ 1\ตอน 1 (หน่วย 1)\Document fonts\WINGDING_0.TTF
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:81000
+FileModTime:1091620800
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Wingdings
+NameArray:0,Win,1,Wingdings
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:PSLMethineeProBold
+FamilyName:PSL Methinee Pro
+StyleName:Bold
+FullName:PSL Methinee Pro Bold
+MenuName:PSL Methinee Pro (เมธินี)
+StyleBits:2
+WritingScript:Thai
+OutlineFileName:D:\ก้อง\1.ภาษาไทย\1 ส่งกระทรวง\หลักภาษาไทย ม.5\รอบกระทรวง 4\ตอนที่ 1\ตอน 1 (หน่วย 1)\Document fonts\psl102pro.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:63048
+FileModTime:1207879586
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,PSL Methinee Pro Bold
+NameArray:0,Mac,4,PSL Methinee Pro Bold
+NameArray:0,Win,1,PSL Methinee Pro (เมธินี)
+NameArray:0,Win,16,PSL Methinee Pro
+%EndFont
+
